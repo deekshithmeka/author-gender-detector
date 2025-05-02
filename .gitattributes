@@ -1,1 +1,2 @@
 model/*.npy filter=lfs diff=lfs merge=lfs -text
+model/author_X.npy filter=lfs diff=lfs merge=lfs -text
